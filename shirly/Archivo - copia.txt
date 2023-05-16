@@ -1,1 +1,2 @@
-gola mundo
+Hola mundo
+Estos son mis cambios desde mi carpeta y desde mi rama autqa-s
